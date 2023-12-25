@@ -1,0 +1,1 @@
+1.Declare all of these variables and try to print it

@@ -1,0 +1,7 @@
+1.Take Input of 'hello world' from user and print it
+2.Take Input of int, float, double (numbers) from user and print it
+
+
+
+Note: Difference Between Scanner and BufferedReader is Scanner can take input from the
+      keyboard, whereas Buffered Reader can take input from Both Keyboard and Files
